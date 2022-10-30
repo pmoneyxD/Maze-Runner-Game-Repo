@@ -1,1 +1,1 @@
-# Maze Runner Game Repo
+# MazeRunner
