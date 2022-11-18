@@ -48,6 +48,10 @@
 		{
 			"Name": "Metasound",
 			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	]
 }
